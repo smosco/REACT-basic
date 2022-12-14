@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: tomato;
+}
+
+.pointer {
+  position: absolute;
+  background-color: rgb(71, 175, 255);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
